@@ -1,12 +1,12 @@
 # 🐾 Dog Knight 🐶⚔️
 
-## 🌟 Welcome to the Demo of Dog Knight! WIP! 🐾
+## Welcome to the Demo of Dog Knight! WIP! 
 Join the adventures of our brave hero, the mighty Sir Dog! 🐶⚔️
 
 ## 🎮 About the Game
  In this demo, your mission is to collect all the sparkling gems before the sneaky predator, Bear, catches up with you! ⏳✨ Beware! You only have 3 lifes! ❤️❤️❤️
  
- But that’s not all! Keep an eye out for shiny Stars along the way—collecting them will grant you temporary invincibility, letting you dash through challenges like a true knight! 🌠💪
+ But that’s not all! Keep an eye out for shiny Stars along the way—collecting them will grant you temporary invincibility, letting you dash through challenges like a true knight! 
 
  ### Get ready for a howlin’ good time! 🌟🐺
 
@@ -20,6 +20,13 @@ Join the adventures of our brave hero, the mighty Sir Dog! 🐶⚔️
 - New Levels: More exciting challenges on the way! 🏞️
 - New Enemies: Watch out for different predators! 🐻🦅
 - More Dog Heroes: Unlock more adorable pups to play as! 🐾
+
+## 📺 Gameplay
+
+![DKGP](Gameplay/DOGKNIGHTGIF.gif)
+
+[Watch the video here](https://youtu.be/u8ZDOszlRE4)
+
 
 ## 🎨 Credits
 
