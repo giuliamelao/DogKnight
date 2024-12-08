@@ -50,3 +50,13 @@ For questions, suggestions, or just to say hi, feel free to reach out!
 I am also providing all my source code for learning and inspiration, so feel free to explore, modify, and create your own paw-some adventures! 🐾✨
 
 Happy gaming, and may your adventures be pawsitively epic! 🐾🎮
+
+
+### Project Progress
+#### 80% Concluded
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
+
+### Next 🔒
+
+- More levels
+- Fixed borders
